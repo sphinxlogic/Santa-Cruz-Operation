@@ -7,5 +7,6 @@
 After you set you home directory you should have a 'Windows' Directory in your SFU home directory and you execute the Korn or C shell. Begin reading the SFU porting guide.</p>
 
 <ul>
+<a target="_self" href="https://archive.org/details/microsoftunixapp0000unse">Microsoft UNIX application migration guide</a></li>
 <li><p>m4 1.4.3</p></li>
 </ul>
