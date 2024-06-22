@@ -3,10 +3,10 @@
 <li><a target="_self" href="https://archive.org/details/cdrom-services-unix-3.5-microsoft-2004">Services for UNIX 3.5 (Microsoft) (2004)</a></li>
 </ul>
 
-<p>Set you home directory in 'Computer Management' and start building <a target="_self" href="https://www.sco.com/skunkware/">SCO from source</a>
+<p>Set you home directory in 'Computer Management' and start building <a target="_self" href="https://www.sco.com/skunkware/">SCO from source UnixwWare version 5 in XP/2003</a>
 After you set you home directory you should have a 'Windows' Directory in your SFU home directory and you execute the Korn or C shell. Begin reading the SFU porting guide.</p>
 
-<p>./configure --prefix=/usr/bin</p>
+<p>./configure --prefix=/usr</p>
 
 https://archive.org/details/microsoftunixapp0000unse
 <ul>
