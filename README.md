@@ -9,16 +9,16 @@ After you set you home directory you should have a 'Windows' Directory in your S
 
 <h2>Compilers</h2>
 <ul>
-<li><p>byacc-20050505</p><a target="_self" href="">byacc-20050505</li>
+<li><a target="_self" href="">byacc-20050505</a></li>
 </ul>
 <h2>Building Autotools</h2>
 <ul>
-<li><p>m4 1.4.3</p><a target="_self" href="https://www.gnu.org/software/m4/">m4</li>
-<li><p>automake 1.4</p><a target="_self" href="">automake 1.4 </p><p><a target="_self" href="">Powerpoint</p></li>
-<li><p>autoconf 1.0</p><a target="_self" href="">autoconf 1.0 </p><p><a target="_self" href="">Powerpoint</p></li>
-<li><p>libtool 2.2.6</p><a target="_self" href="">libtool 2.2.6 </p><p><a target="_self" href="">Powerpoint</p></li>
-<li><p>textinfo 3.1</p><a target="_self" href="https://www.gnu.org/software/texinfo/">textinfo 3.1 </p><p><a target="_self" href="">Powerpoint</p></li>
+<li><a target="_self" href="https://www.gnu.org/software/m4/">m4</li>
+<li><a target="_self" href="">automake 1.4</a>Powerpoint</p></li>
+<li><a target="_self" href="">autoconf 1.0</a><p>Powerpoint</p></li>
+<li><a target="_self" href="">libtool 2.2.6</a><p>Powerpoint</p></li>
+<li><a target="_self" href="https://www.gnu.org/software/texinfo/">textinfo 3.1</a><p>Powerpoint</p></li>
 </ul>
 <h2>Interprerters</h2>
 <ul>
-<li><p>tcl 8.0.4</p><a target="_self" href="">tcl 8.0.4</li>
+<li><a target="_self" href="">tcl 8.0.4</a></li>
