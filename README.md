@@ -14,10 +14,10 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <h2>Building Autotools</h2>
 <ul>
 <li><a target="_self" href="https://www.gnu.org/software/m4/">m4</li>
-<li><a target="_self" href="">automake 1.4</a>Powerpoint</p></li>
-<li><a target="_self" href="">autoconf 1.0</a><p>Powerpoint</p></li>
-<li><a target="_self" href="">libtool 2.2.6</a><p>Powerpoint</p></li>
-<li><a target="_self" href="https://www.gnu.org/software/texinfo/">textinfo 3.1</a><p>Powerpoint</p></li>
+<li><a target="_self" href="">automake 1.4</a></li><p>Powerpoint</p>
+<li><a target="_self" href="">autoconf 1.0</a></li><p>Powerpoint</p>
+<li><a target="_self" href="">libtool 2.2.6</a><p>Powerpoint</p></li><p>Powerpoint</p>
+<li><a target="_self" href="https://www.gnu.org/software/texinfo/">textinfo 3.1</a></li><p>Powerpoint</p>
 </ul>
 <h2>Interprerters</h2>
 <ul>
