@@ -9,8 +9,8 @@ After you set you home directory you should have a 'Windows' Directory in your S
 
 <h2>Building Autotools</h2>
 <ul>
-<li><p>m4 1.4.3<a target="_self" href="https://www.gnu.org/software/m4/">m4</p></li>
-<li><p>automake 1.4<a target="_self" href="">automake 1.4</p></li>
-<li><p>autoconf 1.0<a target="_self" href="">autoconf 1.0</p></li>
-<li><p>libtool 2.2.6<a target="_self" href="">libtool 2.2.6</p></li>
+<li><p>m4 1.4.3</p><a target="_self" href="https://www.gnu.org/software/m4/">m4</li>
+<li><p>automake 1.4</p><a target="_self" href="">automake 1.4 </p><p><a target="_self" href="">Powerpoint</p></li>
+<li><p>autoconf 1.0</p><a target="_self" href="">autoconf 1.0 </p><p><a target="_self" href="">Powerpoint</p></li>
+<li><p>libtool 2.2.6</p><a target="_self" href="">libtool 2.2.6 </p><p><a target="_self" href="">Powerpoint</p></li>
 </ul>
