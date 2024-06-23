@@ -14,3 +14,6 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <li><p>autoconf 1.0</p><a target="_self" href="">autoconf 1.0 </p><p><a target="_self" href="">Powerpoint</p></li>
 <li><p>libtool 2.2.6</p><a target="_self" href="">libtool 2.2.6 </p><p><a target="_self" href="">Powerpoint</p></li>
 </ul>
+<h2>Interprerters</h2>
+<ul>
+<li><p>tcl 8.0.4</p><a target="_self" href="">tcl 8.0.4</li>
