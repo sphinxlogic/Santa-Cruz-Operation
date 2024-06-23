@@ -26,3 +26,8 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <h2>Interprerters</h2>
 <ul>
 <li><a target="_self" href="">tcl 8.0.4</a></li>
+</ul>
+<h2>Infustructure</h2>
+<ul>
+<li><a target="_self" href="">curl 7.9.6</a></li>
+</ul>
