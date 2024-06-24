@@ -26,6 +26,7 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <h2>Interprerters</h2>
 <ul>
 <li><a target="_self" href="https://www.tcl.tk/">tcl 8.0.4</a></li>
+<li><a target="_self" href="https://www.ruby-lang.org/en/">ruby 1.8.2</a></li>
 </ul>
 <h2>Infustructure</h2>
 <ul>
