@@ -30,4 +30,5 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <h2>Infustructure</h2>
 <ul>
 <li><a target="_self" href="">curl 7.9.6</a></li>
+<li><a target="_self" href="">jpegsrc.v6a</a></li>
 </ul>
