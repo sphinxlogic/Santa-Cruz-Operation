@@ -18,17 +18,17 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <h2>Building Autotools</h2>
 <ul>
 <li><a target="_self" href="https://www.gnu.org/software/m4/">m4</li>
-<li><a target="_self" href="">automake 1.4</a></li>
-<li><a target="_self" href="">autoconf 1.0</a></li>
-<li><a target="_self" href="">libtool 2.2.6</a></li>
+<li><a target="_self" href="https://www.gnu.org/software/automake/">automake 1.4</a></li>
+<li><a target="_self" href="https://www.gnu.org/software/autoconf/">autoconf 1.0</a></li>
+<li><a target="_self" href="https://www.gnu.org/software/libtool/">libtool 2.2.6</a></li>
 <li><a target="_self" href="https://www.gnu.org/software/texinfo/">textinfo 3.1</a></li>
 </ul>
 <h2>Interprerters</h2>
 <ul>
-<li><a target="_self" href="">tcl 8.0.4</a></li>
+<li><a target="_self" href="https://www.tcl.tk/">tcl 8.0.4</a></li>
 </ul>
 <h2>Infustructure</h2>
 <ul>
-<li><a target="_self" href="">curl 7.9.6</a></li>
-<li><a target="_self" href="">jpegsrc.v6a</a></li>
+<li><a target="_self" href="https://curl.se/">curl 7.9.6</a></li>
+<li><a target="_self" href="https://jpeg.org/jpeg2000/">jpegsrc.v6a</a></li>
 </ul>
