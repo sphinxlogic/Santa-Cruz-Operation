@@ -32,4 +32,5 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <ul>
 <li><a target="_self" href="https://curl.se/">curl 7.9.6</a></li>
 <li><a target="_self" href="https://jpeg.org/jpeg2000/">jpegsrc.v6a</a></li>
+<li><a target="_self" href="https://sourceware.org/pthreads-win32/">pthreads-win32</a></li>
 </ul>
