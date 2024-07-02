@@ -20,7 +20,8 @@ After you set you home directory you should have a 'Windows' Directory in your S
     <table>
 	<tr>
 	    <td><a target="_self" href="https://www.gnu.org/software/m4/">m4</a></td>
-	    <td><a target="_self" href="https://en.wikipedia.org/wiki/M4_(computer_language)">m4 wikipedia</a></td>
+	    <td><a target="_self" href="https://en.wikipedia.org/wiki/M4_(computer_language)">Wikipedia</a></td>
+	    <td><a target="_self" href="Powerpoints/m4.ppt">Powerpoint</a></td>	
 	</tr>
     </table>
   </tr>
