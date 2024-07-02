@@ -8,6 +8,9 @@
 
 <p>Set you home directory in 'Computer Management' and start building <a target="_self" href="https://www.sco.com/skunkware/">SCO from source UnixwWare version 5 in XP/2003</a>
 After you set you home directory you should have a 'Windows' Directory in your SFU home directory and you execute the Korn or C shell. Begin reading the SFU porting guide.</p>
+<table> 
+<tr>
+<thead>Windows XP/2003</thead>
 <table>  
   <tr>
     <thead>Compilers</thead>
@@ -71,5 +74,8 @@ After you set you home directory you should have a 'Windows' Directory in your S
 		<tr><td><a target="_self" href="https://sourceware.org/pthreads-win32/">pthreads-win32</a></td>
 		</tr> 
        </tr>
+
 </table> 
+</tr>
+</table>
 
