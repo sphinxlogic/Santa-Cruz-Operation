@@ -18,9 +18,9 @@ After you set you home directory you should have a 'Windows' Directory in your S
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td><a target="_self" href="https://en.wikipedia.org/wiki/M4_(computer_language)"></td>
-    <td><a target="_self" href="https://www.gnu.org/software/m4/"></td>
+  <tr>    
+    <td><a target="_self" href="https://www.gnu.org/software/m4/">m4</a></td>
+    <td><a target="_self" href="https://en.wikipedia.org/wiki/M4_(computer_language)">m4 wikipedia</a></td>
   </tr>
   <tr>
     <td><a target="_self" href="https://www.gnu.org/software/automake/">automake 1.4</a></td>
