@@ -26,7 +26,7 @@ After you set you home directory you should have a 'Windows' Directory in your S
   </tr>
   <tr>
     <thead>Autotools</thead>
-	&nbsp
+    &nbsp
     <table>
 	<tr>
 	    <td><a target="_self" href="https://www.gnu.org/software/automake/">automake 1.4</a></td>
@@ -48,26 +48,26 @@ After you set you home directory you should have a 'Windows' Directory in your S
        </tr>
      </table>
 </tr>
-<tr>
-<thead>Interpeters</thead>
-&nbsp
-      <table>
-	<tr>
+     <tr>
+	<thead>Interpeters</thead>
+	&nbsp
+        <table>
+	        <tr>
                 <td><a target="_self" href="https://www.tcl.tk/">tcl 8.0.4</a></td>    
-  	</tr>
-     </table> 
- <table>
-	<tr><td><a target="_self" href="https://www.ruby-lang.org/en/">ruby 1.8.2</a></td>
-	</tr>
- <table>
-	<tr><td><a target="_self" href="https://curl.se/">curl 7.9.6</a></td>
-	</tr>
- <table>
-	<tr><td><a target="_self" href="https://jpeg.org/jpeg2000/">jpegsrc.v6a</a></td>
-        </tr>
- <table>
-	<tr><td><a target="_self" href="https://sourceware.org/pthreads-win32/">pthreads-win32</a></td>
-	</tr> 
- </tr>
+  	        </tr>
+        </table> 
+ 	<table>
+		<tr><td><a target="_self" href="https://www.ruby-lang.org/en/">ruby 1.8.2</a></td>
+		</tr>
+ 	<table>
+		<tr><td><a target="_self" href="https://curl.se/">curl 7.9.6</a></td>
+		</tr>
+ 	<table>
+		<tr><td><a target="_self" href="https://jpeg.org/jpeg2000/">jpegsrc.v6a</a></td>
+        	</tr>
+ 	<table>
+		<tr><td><a target="_self" href="https://sourceware.org/pthreads-win32/">pthreads-win32</a></td>
+		</tr> 
+       </tr>
 </table> 
 
