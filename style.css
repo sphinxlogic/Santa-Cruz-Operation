@@ -1,4 +1,5 @@
 li span {
   position: relative;
   left: -10px;
+  float: left;
 }
