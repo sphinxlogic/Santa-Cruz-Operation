@@ -15,7 +15,7 @@ After you set you home directory you should have a 'Windows' Directory in your S
     <table>
 	<tr>
 	    <td><a target="_self" href="https://invisible-island.net/byacc/">byacc-20050505</a></td>
-	    <td><a target="_self" href="https://en.wikipedia.org/wiki/Berkeley_Yacc</a></td>
+	    <td><a target="_self" href="https://en.wikipedia.org/wiki/Berkeley_Yacc">Wikepedia</a></td>
 	</tr>
     </table>    
     <table>
