@@ -10,28 +10,68 @@ After you set you home directory you should have a 'Windows' Directory in your S
 <table>
   <tr>
     <th><a target="_self" href="ugh.pdf">UNIX Haters Handbook</a></th>
-    <th><a target="_self" href="https://invisible-island.net/byacc/">byacc-20050505</a></th>
-    <th><a target="_self" href="https://www.gnu.org/software/m4/"></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
+    <td><a target="_self" href="https://invisible-island.net/byacc/">byacc-20050505</a></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
     <td><a target="_self" href="https://en.wikipedia.org/wiki/M4_(computer_language)"></td>
+    <td><a target="_self" href="https://www.gnu.org/software/m4/"></td>
   </tr>
   <tr>
     <td><a target="_self" href="https://www.gnu.org/software/automake/">automake 1.4</a></td>
+    <td></td>
+    <td></td>
+    <td></td>	
+  </tr>
+<tr>
     <td><a target="_self" href="https://www.gnu.org/software/autoconf/">autoconf 1.0</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
     <td><a target="_self" href="https://www.gnu.org/software/libtool/">libtool 2.2.6</a></td>
-    <td><a target="_self" href="https://www.gnu.org/software/texinfo/">textinfo 3.1</a></td>	
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td><a target="_self" href="https://www.gnu.org/software/texinfo/">textinfo 3.1</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td><a target="_self" href="https://www.tcl.tk/">tcl 8.0.4</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td><a target="_self" href="https://www.ruby-lang.org/en/">ruby 1.8.2</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td><a target="_self" href="https://curl.se/">curl 7.9.6</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td><a target="_self" href="https://jpeg.org/jpeg2000/">jpegsrc.v6a</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td><a target="_self" href="https://sourceware.org/pthreads-win32/">pthreads-win32</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table> 
-<ul>
-<li><a target="_self" href="https://www.tcl.tk/">tcl 8.0.4</a></li>
-<li><a target="_self" href="https://www.ruby-lang.org/en/">ruby 1.8.2</a></li>
-</ul>
-<h2>Infustructure</h2>
-<ul>
-<li><a target="_self" href="https://curl.se/">curl 7.9.6</a></li>
-<li><a target="_self" href="https://jpeg.org/jpeg2000/">jpegsrc.v6a</a></li>
-<li><a target="_self" href="https://sourceware.org/pthreads-win32/">pthreads-win32</a></li>
-</ul>
+
