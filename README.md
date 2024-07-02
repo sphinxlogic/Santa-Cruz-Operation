@@ -26,6 +26,7 @@ After you set you home directory you should have a 'Windows' Directory in your S
   </tr>
   <tr>
     <thead>Autotools</thead>
+	&nbsp
     <table>
 	<tr>
 	    <td><a target="_self" href="https://www.gnu.org/software/automake/">automake 1.4</a></td>
@@ -49,6 +50,7 @@ After you set you home directory you should have a 'Windows' Directory in your S
 </tr>
 <tr>
 <thead>Interpeters</thead>
+&nbsp
       <table>
 	<tr>
                 <td><a target="_self" href="https://www.tcl.tk/">tcl 8.0.4</a></td>    
